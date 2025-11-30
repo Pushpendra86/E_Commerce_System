@@ -1,9 +1,11 @@
 # E_Commerce_System
+
 Node JS Practical Task
  Build a Node.js API for an e-commerce system
  Add joi validation every filed
 
 Users side
+
 1. Login and registration (if new user registration, then add wallet point)
 2. Product list page
 3. Allow adding items to cart
@@ -13,6 +15,7 @@ Users side
 7. Use Express + Mysql database
 
 Seller side
+
 1. Create seller login and registration
 2. Create seller brand and brand list
 3. Seller add product and list product
@@ -30,12 +33,8 @@ TechStack used
 2.bcrypt(password hashing)
 
 --> Validation
-1. JOI validation library
+1.JOI validation library
 
 -->Other tools
 1.dotenv
 2.Postman
-
-
-
-
